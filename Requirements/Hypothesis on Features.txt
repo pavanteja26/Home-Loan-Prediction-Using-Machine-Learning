@@ -1,0 +1,18 @@
+1. Hypothesis on Applicant Features
+H1: Higher credit scores are positively correlated with loan approval rates.
+2. Hypothesis on Income and Debt
+H2: Applicants with a lower debt-to-income ratio are more likely to be approved for a home loan.
+3. Hypothesis on Employment Status
+H3: Applicants with stable employment (e.g., full-time employment for over two years) have a higher likelihood of loan approval compared to those with unstable employment histories.
+4. Hypothesis on Property Characteristics
+H4: Properties located in higher-valued neighborhoods have a higher approval rate for home loans compared to those in lower-valued areas.
+5. Hypothesis on Loan Amount
+H5: There is a negative correlation between loan amount requested and loan approval rates, with smaller loans being approved more frequently than larger loans.
+6. Hypothesis on Historical Data
+H6: Previous default rates on loans are predictive of current approval rates, with historical performance impacting lender decisions.
+7. Hypothesis on Demographic Factors
+H7: Loan approval rates differ significantly across different demographic groups (e.g., age, gender, ethnicity).
+8. Hypothesis on Interest Rates
+H8: Lower interest rates offered by lenders lead to higher loan approval rates.
+Testing the Hypotheses
+Each of these hypotheses can be tested using statistical analysis or machine learning models to understand their validity and impact on loan approval decisions. You would collect relevant data, preprocess it, and then analyze the relationships through exploratory data analysis (EDA) or by incorporating the features into a predictive model. The results will help validate or refute the hypotheses, guiding better lending practices.
